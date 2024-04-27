@@ -17,4 +17,4 @@ public class StringExample3 {
 		System.out.println("Full name is: " + firstName + " " + middleName + " " + lastName);
 	}
 
-} newbit
+} newbit22
